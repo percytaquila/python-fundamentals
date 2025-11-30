@@ -27,10 +27,21 @@ edad = 29
 
 print("Mi nombre es " + nombre + " y mi edad es " + str(edad))
 
+# Ejercicio 8
+user_name = input("Ingresa tu nombre: ")
+print("Hola " + user_name)
 
-# Ejercicio 8   
+
+# Ejercicio 9   
 numero1 = 10
 numero2 = 5
 
 print(numero1 + numero2)
 print(type(numero1 + numero2))
+
+# Ejercicio 10
+# Comentario del ejercicio nro 9:
+# primera variable que almacena el valor del numero 1
+# segunda variable que almacena el valor del numero 2
+# imprime la suma de los numeros 1 y 2
+# imprime el tipo de dato del resultado de la suma entre lso numeros 1 y 2
