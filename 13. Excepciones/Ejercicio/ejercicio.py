@@ -53,7 +53,7 @@ multiples_operaciones(5, 0)
 
 
 # Ejercicio 5
-def edad_usuario(edad):
+def edad_usuario(age):
     try:
         age = int(input("Introduce tu edad: "))
         if age <= 0:
